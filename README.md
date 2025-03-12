@@ -6,4 +6,5 @@ If you liked my content please, check my itch.io to see the games I've worked on
 [hypnotikfox.itch.io](https://hypnotikfox.itch.io/)
 
 You can also follow me on Bluesky:
-bsky.app/profile/hypnotikfox.bsky.social
+[bsky.app/profile/hypnotikfox.bsky.social
+https://bsky.app/profile/hypnotikfox.bsky.social](https://bsky.app/profile/hypnotikfox.bsky.social)
