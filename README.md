@@ -1,3 +1,9 @@
-Hello! I'm Hypnotik Fox and I'm an billingual game developer, mainly a unity programmer and 2d artist!
+Hi! I'm Hypnotik Fox, a brazilian game dev and part-time student!
 
-itch.io: https://hypnotikfox.itch.io/
+Here I have some free public assets that I created, that you can freely use on your own projects, study or modify.
+
+If you liked my content please, check my itch.io to see the games I've worked on and know more about me: 
+hypnotikfox.itch.io
+
+You can also follow me on Bluesky:
+bsky.app/profile/hypnotikfox.bsky.social
