@@ -4,6 +4,9 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
+// Video: https://youtu.be/zfvFP_e0v5Q?si=ojV1eMjigRhPGaNC
+// Forum post for the sceneField script: https://discussions.unity.com/t/inspector-field-for-scene-asset/40763
+
 [System.Serializable]
 public class SceneField
 {
